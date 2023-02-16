@@ -29,7 +29,7 @@ Repo: https://bit.ly/3GKybaq
 > Nico Ohler  
 
 Slides: [Slides05](files/group05.pdf)  
-Repo: https://bit.ly/3GKybaq  
+Repo: https://github.com/massimilianoviola/advanced-information-retrieval
 
 ![Teaser05](files/group05-11.png)
 
