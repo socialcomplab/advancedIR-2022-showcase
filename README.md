@@ -7,7 +7,7 @@ This pages features well conducted IR projects of Advanced Information Retrieval
 > Matthias Hülser  
 
 Slides: [Slides30](files/group30.pdf)  
-Repo: https://github.com/Vulturemox/air-2022  
+Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air-2022)  
 
 ![Teaser30](files/group30-04.png)
 
@@ -18,7 +18,7 @@ Repo: https://github.com/Vulturemox/air-2022
 > Tobias Wolf  
 
 Slides: [Slides03](files/group03.pdf)  
-Repo: https://bit.ly/3GKybaq  
+Repo: [https://bit.ly/3GKybaq](https://bit.ly/3GKybaq)  
 
 ![Teaser03](files/group03-4.png)
 
@@ -29,7 +29,7 @@ Repo: https://bit.ly/3GKybaq
 > Nico Ohler  
 
 Slides: [Slides05](files/group05.pdf)  
-Repo: https://github.com/massimilianoviola/advanced-information-retrieval
+Repo: [https://github.com/massimilianoviola/advanced-information-retrieval](https://github.com/massimilianoviola/advanced-information-retrieval)
 
 ![Teaser05](files/group05-11.png)
 
