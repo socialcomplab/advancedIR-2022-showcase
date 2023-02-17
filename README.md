@@ -1,13 +1,13 @@
 # Advanced IR WS22 Project Highlights
 
-This pages features well conducted IR projects of Advanced Information Retrieval of winter term 2022 (in no particular order).
+This pages features well conducted IR projects of Advanced Information Retrieval of winter term 2022 (in no particular order).  
+Slides of their final presentation and their code-base are openly available.  
 
 ## Comparison of Re-rankers 
 > Julian Rakuschek  
 > Matthias Hülser  
 
-Slides: [Slides30](files/group30.pdf)  
-Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air-2022)  
+[Slides](files/group30.pdf) and Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air-2022)  
 
 ![Teaser30](files/group30-04.png)
 
@@ -17,8 +17,7 @@ Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air
 > Martin Brantner  
 > Thomas Mühlbacher  
 
-Slides: [Slides25](files/group25.pdf)  
-Repo: [https://github.com/muehlt/marco-polo](https://github.com/muehlt/marco-polo)
+[Slides](files/group25.pdf) and Repo: [https://github.com/muehlt/marco-polo](https://github.com/muehlt/marco-polo)
 
 ![Teaser25](files/group25-04.png)
 
@@ -26,8 +25,7 @@ Repo: [https://github.com/muehlt/marco-polo](https://github.com/muehlt/marco-pol
 > Sebastian Weidinger  
 > Laura Weißl  
 
-Slides: [Slides33](files/group33.pdf)  
-Repo: [https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22](https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22)
+[Slides](files/group33.pdf) and Repo: [https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22](https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22)
 
 ![Teaser33](files/group33-07.png)
 
@@ -37,8 +35,7 @@ Repo: [https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22](htt
 > Manuell Schöller  
 > Tobias Wolf  
 
-Slides: [Slides03](files/group03.pdf)  
-Repo: [https://github.com/kev-inn/programming-languages-w2v](https://github.com/kev-inn/programming-languages-w2v)  
+[Slides](files/group03.pdf) and Repo: [https://github.com/kev-inn/programming-languages-w2v](https://github.com/kev-inn/programming-languages-w2v)  
 
 ![Teaser03](files/group03-4.png)
 
@@ -48,7 +45,6 @@ Repo: [https://github.com/kev-inn/programming-languages-w2v](https://github.com/
 > Massimiliano Viola    
 > Nico Ohler  
 
-Slides: [Slides05](files/group05.pdf)  
-Repo: [https://github.com/massimilianoviola/advanced-information-retrieval](https://github.com/massimilianoviola/advanced-information-retrieval)
+[Slides](files/group05.pdf) and Repo: [https://github.com/massimilianoviola/advanced-information-retrieval](https://github.com/massimilianoviola/advanced-information-retrieval)
 
 ![Teaser05](files/group05-11.png)
