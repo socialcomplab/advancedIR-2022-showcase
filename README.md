@@ -11,6 +11,26 @@ Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air
 
 ![Teaser30](files/group30-04.png)
 
+## Marco Polo: Testing retrieval performance on summarized documents
+> Fabian Staber  
+> Matthias Paltauf  
+> Martin Brantner  
+> Thomas Mühlbacher  
+
+Slides: [Slides25](files/group25.pdf)  
+Repo: [https://github.com/muehlt/marco-polo](https://github.com/muehlt/marco-polo)
+
+![Teaser25](files/group25-04.png)
+
+## FBI - FakeNews BERT Inspector
+> Sebastian Weidinger  
+> Laura Weißl  
+
+Slides: [Slides33](files/group33.pdf)  
+Repo: [https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22](https://github.com/LauraWeissl/TUG_AdvancedInformationRetrieval_WS22)
+
+![Teaser33](files/group33-07.png)
+
 ## Similarity of Programming Languages: C/C++, C#, Go and Python
 > Kevin Innerebner  
 > Philip Loibl  
@@ -18,7 +38,7 @@ Repo: [https://github.com/Vulturemox/air-2022](https://github.com/Vulturemox/air
 > Tobias Wolf  
 
 Slides: [Slides03](files/group03.pdf)  
-Repo: [https://bit.ly/3GKybaq](https://bit.ly/3GKybaq)  
+Repo: [https://github.com/kev-inn/programming-languages-w2v](https://github.com/kev-inn/programming-languages-w2v)  
 
 ![Teaser03](files/group03-4.png)
 
@@ -32,4 +52,3 @@ Slides: [Slides05](files/group05.pdf)
 Repo: [https://github.com/massimilianoviola/advanced-information-retrieval](https://github.com/massimilianoviola/advanced-information-retrieval)
 
 ![Teaser05](files/group05-11.png)
-
