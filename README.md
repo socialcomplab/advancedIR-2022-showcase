@@ -1,7 +1,7 @@
 # Advanced IR WS22 Project Highlights
 
-This pages features well conducted IR projects of Advanced Information Retrieval of winter term 2022 (in no particular order).  
-Slides of their final presentation and their code-base are openly available.  
+This page features well-conducted IR projects from Advanced Information Retrieval of winter term 2023 (in no particular order).  
+Slides of the groups' final presentations and their code bases are openly available.  
 
 ## Comparison of Re-rankers 
 > Julian Rakuschek  
